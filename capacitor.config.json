@@ -1,0 +1,15 @@
+﻿{
+  "appId": "com.xiaojing.study",
+  "appName": "小鲸学习",
+  "webDir": "www",
+  "server": {
+    "url": "https://increased-whitefish-d5bib9cd3d51-1519026807.tcloudbaseapp.com/?app=1",
+    "cleartext": false,
+    "allowNavigation": [
+      "increased-whitefish-d5bib9cd3d51-1519026807.tcloudbaseapp.com"
+    ]
+  },
+  "android": {
+    "allowMixedContent": false
+  }
+}
